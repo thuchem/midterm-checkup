@@ -1,0 +1,215 @@
+
+.menu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor:pointer;
+    transition: opacity 1s;
+    transition: background-color 1s;
+    transition: color 1s; 
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-right: 50px;
+     /*delete after complete layoting */
+    margin-bottom: 50px;
+     /*delete after complete layoting */
+}
+.menu:hover {
+    background-color: white;
+    color:black;
+    box-sizing: 3px;
+}
+.menu:active {opacity: 50%}
+
+.about {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor:pointer;
+    transition: opacity 1s;
+    transition: background-color 1s;
+    transition: color 1s; 
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 50px; 
+    /*delete after complete layoting */
+    margin-bottom: 50px;
+     /*delete after complete layoting */
+}
+.about:hover {
+    background-color: white;
+    color:black;
+    box-sizing: 3px;
+}
+.about:active {opacity: 50%}
+
+.resume {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor:pointer;
+    transition: opacity 1s;
+    transition: background-color 1s;
+    transition: color 1s; 
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 50px; 
+    /*delete after complete layoting */
+    margin-bottom: 50px;
+     /*delete after complete layoting */
+}
+.resume:hover {
+    background-color: white;
+    color:black;
+    box-sizing: 3px;
+}
+.resume:active {opacity: 50%}
+
+.Chemfolio {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor:pointer;
+    transition: opacity 1s;
+    transition: background-color 1s;
+    transition: color 1s; 
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-right: 50px; 
+    /*delete after complete layoting */
+    margin-bottom: 50px;
+     /*delete after complete layoting */
+}
+.Chemfolio:hover {
+    background-color: white;
+    color:black;
+    box-sizing: 3px;
+}
+.Chemfolio:active {opacity: 50%}
+
+
+.yes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor:pointer;
+    transition: opacity 1s;
+    transition: background-color 1s;
+    transition: color 1s; 
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-right: 50px; 
+    /*delete after complete layoting */
+    margin-bottom: 50px;
+     /*delete after complete layoting */
+}
+.yes:hover {
+    background-color: white;
+    color:black;
+    box-sizing: 3px;
+}
+.yes:active {opacity: 50%}
+
+.shutup {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor:pointer;
+    transition: opacity 1s;
+    transition: background-color 1s;
+    transition: color 1s; 
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-right: 50px; 
+    /*delete after complete layoting */
+    margin-bottom: 50px;
+     /*delete after complete layoting */
+}
+.shutup:hover {
+    background-color: white;
+    color:black;
+    box-sizing: 3px;
+}
+.shutup:active {opacity: 50%;}
+
+.bubblewrap1 {
+    width:300px;
+    height: 300px;
+    object-fit: contain;
+    object-position: bottom;
+}
+.bubblewrap2 {
+    width:300px;
+    height: 300px;
+    object-fit: contain;
+    object-position: top;
+}
+.bubblewrap3 {
+    width:300px;
+    height: 300px;
+    object-fit: contain;
+    object-position: middle;
+}
+div {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+div:hover { background-color: white;
+    color:black;
+    box-sizing: 3px;
+}
+div:active {opacity: 50%;}
